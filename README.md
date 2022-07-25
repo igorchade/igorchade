@@ -27,7 +27,7 @@
 </div><hr>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorchade&show_icons=true&theme=dark&include_all_commits=true&count_private" align="left" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=igorchade&show_icons=true&theme=dark&include_all_commits=true&count_private" align="left" />
 
 <div align="right">
   <img width="120em" src="https://user-images.githubusercontent.com/102318859/180626674-d1df0ec2-4700-466e-ba19-0a1763c80cf8.png">
