@@ -30,10 +30,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorchade&show_icons=true&theme=dark&include_all_commits=true&count_private" align="left" />
 </div>
 <div align="right">
-  <img width="130" src="https://user-images.githubusercontent.com/102318859/180626674-d1df0ec2-4700-466e-ba19-0a1763c80cf8.png">
-  <img width="130" src="https://user-images.githubusercontent.com/102318859/180874981-92107d4a-f73c-4a8a-ac17-437f3842df5b.png">
-  <img width="130" src="https://user-images.githubusercontent.com/102318859/180874978-9523112d-64b6-4963-8d0a-07db235d6478.png">
-  <img width="130" src="https://user-images.githubusercontent.com/102318859/180874968-6bfff768-813f-485e-a062-2c22ccd922e6.png">
+  <img width="100" src="https://user-images.githubusercontent.com/102318859/180626674-d1df0ec2-4700-466e-ba19-0a1763c80cf8.png">
+  <img width="100" src="https://user-images.githubusercontent.com/102318859/180874981-92107d4a-f73c-4a8a-ac17-437f3842df5b.png">
+  <img width="100" src="https://user-images.githubusercontent.com/102318859/180874978-9523112d-64b6-4963-8d0a-07db235d6478.png">
+  <img width="100" src="https://user-images.githubusercontent.com/102318859/180874968-6bfff768-813f-485e-a062-2c22ccd922e6.png">
 </div>
 
 <br><hr>
