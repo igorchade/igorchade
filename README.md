@@ -41,3 +41,5 @@
 </div>
 
 <br><hr>
+
+ ![Snake animation](https://github.com/igorchade/igorchade/blob/output/github-contribution-grid-snake.svg)
